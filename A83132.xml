@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament, for securing of the eighty thousand pounds advanced by, and under the eight treasurers hereafter named: and for a further provision, for the raising and maintaining of the forces under the command of Sir Thomas Fairfax. 31. Martii, 1645. Ordered by the Commons assembled in Parliament, that this ordinance be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83132</idno>
+            <idno type="STC">Wing E1923</idno>
+            <idno type="STC">Thomason E276_5</idno>
+            <idno type="STC">ESTC R209876</idno>
+            <idno type="EEBO-CITATION">99868727</idno>
+            <idno type="PROQUEST">99868727</idno>
+            <idno type="VID">121083</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83132)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 121083)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 46:E276[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament, for securing of the eighty thousand pounds advanced by, and under the eight treasurers hereafter named: and for a further provision, for the raising and maintaining of the forces under the command of Sir Thomas Fairfax. 31. Martii, 1645. Ordered by the Commons assembled in Parliament, that this ordinance be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>for Edward Husbands,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>April 2. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:121083:1" rendition="simple:additions"/>
+            <p>AN ORDINANCE OF THE Lords and Commons Aſſembled in PARLIAMENT, For Securing of the Eighty thouſand Pounds advanced by, and under the eight Treaſurers hereafter named:</p>
+            <p>And for a further Proviſion, for the raiſing and maintaining of the Forces under the Com<g ref="char:EOLhyphen"/>mand of Sir THOMAS FAIRFAX.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>31. <hi>Martii,</hi> 1645.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Commons aſſembled in Parlia<g ref="char:EOLhyphen"/>ment, That this Ordinance be forthwith printed and publiſhed.</p>
+                        <closer>
+                           <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed at <hi>London</hi> for <hi>Edward Husbands.</hi>
+            </p>
+            <p>April 2. 1645.</p>
+            <pb facs="tcp:121083:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:121083:2"/>
+            <opener>
+               <dateline>
+                  <date>31. Martii, 1645.</date>
+               </dateline>
+            </opener>
+            <argument>
+               <p>An Ordinance of the Lords and Commons Aſſem<g ref="char:EOLhyphen"/>bled in Parliament, For ſecuring of the Eighty Thouſand pounds, advanced by and under the eight Treaſurers hereafter named, and for a fur<g ref="char:EOLhyphen"/>ther Proviſion for the Raiſing and Maintaining of the Forces under the Command of Sir THO<g ref="char:EOLhyphen"/>MAS FAIRFAX.</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">F</seg>Or the better ſecuring of the Eighty thouſand pounds, under<g ref="char:EOLhyphen"/>taken to be lent by divers per<g ref="char:EOLhyphen"/>ſons, aſwell Aldermen as Mer<g ref="char:EOLhyphen"/>chants and others, and for the more orderly receiving and iſſuing out of the Moneys appointed to be Taxed and Lea<g ref="char:EOLhyphen"/>vied by the Ordinance of both Houſes of Parliament, made the fifteenth of <hi>February</hi> laſt; for the raiſing, and maintaining the Forces under the command of Sir <hi>Thomas Fairfax:</hi> Be it Ordained, and it is Ordained by the Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment aſſembled; That Sir <hi>John Wollaſton</hi> Knight, <hi>Thomas Adams, John Warner,</hi> and <hi>Thomas Andrews,</hi> Aldermen of the City of <hi>London; Abraham, Chamberlaine, George Witham,</hi>
+               <pb facs="tcp:121083:3"/>
+               <hi>Francis Allen,</hi> and <hi>John Dethicke</hi> of <hi>London,</hi> Merchants; ſhall be Treaſurers at War during the ten Moneths mentioned in the ſaid former Ordinance of the fifteenth of <hi>February</hi> laſt: And be it likewiſe Ordained, That the ſaid Treaſurers at War ſhall re<g ref="char:EOLhyphen"/>ceive from the ſeverall Lenders of the ſaid Money, the Sum of Eighty thouſand pounds, and from the ſeverall Collectors of all other the Moneys to be Taxed, Lea<g ref="char:EOLhyphen"/>vied, and paid by vertue of the ſaid former Ordinance of the fifteenth of <hi>February</hi> laſt, the ſaid Sums to be Leavied, Taxed, and paid; which ſeverall Sums of Money ſhall be by them paid to the ſaid Treaſurers, and iſſued forth for the raiſing and maintaining of the ſaid Forces, and the charges incident to the ſame; And for the re-imburſing and repayment of the ſaid Lenders, the ſaid Sum of Eighty thouſand pounds, with the intereſt thereof, after the Rate of Eight pounds <hi>per Cent.</hi> from the time of the len<g ref="char:EOLhyphen"/>ding thereof, to the time of the re-payment thereof, to the ſeverall Lenders of the ſame, their Executors and Adminiſtrators, or ſuch other perſon or perſons, to whom the ſaid Lenders, their Executors or Admi<g ref="char:EOLhyphen"/>niſtrators
+<pb facs="tcp:121083:3"/>
+ſhal under their reſpective hands in writing, appoint the ſame or any part thereof to be paid, and the ſaid Treaſurers or any two of them (one of them being an Alderman, the other a Commoner) ſhall have power, and are hereby authorized, in<g ref="char:EOLhyphen"/>joyned and required to re-pay the ſaid Eighty thouſand pounds unto the ſaid Len<g ref="char:EOLhyphen"/>ders, their Executors or Aſſignes, or ſuch perſon or perſons their Aſſignees as afore<g ref="char:EOLhyphen"/>ſaid, in manner and forme following: <hi>viz.</hi> Twenty ſix thouſand, ſix hundred, ſixty ſix pounds, thirteen ſhillings and four pence; with ſuch intereſt thereof at one entire pay<g ref="char:EOLhyphen"/>ment out of the moneys to be Taxed, Lea<g ref="char:EOLhyphen"/>vied and paid for the Collection of the fifth moneth; by vertue of the ſaid former Ordi<g ref="char:EOLhyphen"/>nances; Twenty ſix thouſand, ſix hundred, ſixty ſix pounds, thirteene ſhillings four pence, with the intereſt thereof, at one en<g ref="char:EOLhyphen"/>tire payment out of the moneys to be Taxed, Leavied, and paid for the ſixt mo<g ref="char:EOLhyphen"/>neths Collection, by vertue of the ſaid for<g ref="char:EOLhyphen"/>mer Ordinance: And twenty ſix thouſand, ſix hundred, ſixty ſix pounds, thirteen ſhil<g ref="char:EOLhyphen"/>lings, four pence, with intereſt after the ſame Rate, at one entire payment out of
+<pb facs="tcp:121083:4"/>
+the moneys to be Taxed, Leavied, and paid for the ſeventh moneths Collection, by force of the ſaid Ordinance of the fifteenth of <hi>Fe<g ref="char:EOLhyphen"/>bruary:</hi> The ſaid ſeverall ſums of Twenty ſix thouſand, ſix hundred, ſixty ſix pounds, thirteen ſhillings four pence, with intereſt thereof, to be paid out of the firſt moneys to be received in, or for the ſaid ſeve<g ref="char:EOLhyphen"/>rall and reſpective fifth, ſixth, and ſe<g ref="char:EOLhyphen"/>venth Moneths Collection, by force of the ſaid recited Ordinance, and of this preſent Ordinance. And in caſe there be not ſufficient raiſed out of the fifth, ſixth and ſeventh moneths Leavy, tax or receipt, That then the ſaid Treaſurers, or any two of them, (one of them being an Al<g ref="char:EOLhyphen"/>derman the other of them a Commoner) ſhall have power, and they are hereby au<g ref="char:EOLhyphen"/>thorized, injoyned and required to pay the ſaid Eighty thouſand pounds, with intereſt as aforeſaid, or the remainder thereof, to the ſaid Lenders, their Executors, or Aſſignes as aforeſaid, out of ſuch ſums of money as ſhall be Taxed, Leavied, and paid, by virtue of the ſaid Ordinance of the fif<g ref="char:EOLhyphen"/>teenth of <hi>February</hi> laſt, and this preſent Ordinance, for the eighth, ninth, and
+<pb facs="tcp:121083:4"/>
+tenth moneths in the ſaid recited Ordi<g ref="char:EOLhyphen"/>nance mentioned; The ſame to be paid proportionably to each Lender, his Execu<g ref="char:EOLhyphen"/>tors, or Aſſignes as aforeſaid, according to the ſum by him or them advanced by way of Loan, upon his demand thereof from the ſaid Treaſurers or any two of them, the one of them being an Alder<g ref="char:EOLhyphen"/>man, the other a Commoner. And if there ſhall be a failer of the payment of the ſaid Eighty Thouſand Pounds, and the intereſt thereof at ſuch rate as a<g ref="char:EOLhyphen"/>foreſaid, or any part of the ſame out of the ſaid monethly Collections hereby appoint<g ref="char:EOLhyphen"/>ed for the payment thereof: It is hereby ordained, That ſo much thereof as ſhall be unpaid, ſhall be paid out of ſuch other re<g ref="char:EOLhyphen"/>ceipts as are hereafter mentioned, or as ſhall be in the power of both Houſes of Parliament to diſpoſe of, or by ſome other wayes or meanes to be provided for by both Houſes of Parliament, who undertake the proviſion thereof accordingly: And that every County, City, Burrough and other place may be fully aſſeſſed according to the Rate by the ſaid Ordinance, intended to be Taxed and Aſſeſſed upon them, in caſe there ſhould be default in any of the Com<g ref="char:EOLhyphen"/>mittees
+<pb facs="tcp:121083:5"/>
+appointed by the ſaid Ordinance, in the making of the ſaid Aſſeſſment, or in any County, City, Burrough, or other place, in paying of the ſums Aſſeſſed, or any negligence or default in any Collector to be appointed by virtue of the ſaid former Ordinance, for raiſing and maintaining the ſaid Forces, or Collecting of the ſame, or otherwiſe; Be it Ordained, That the Earl of <hi>Northumberland,</hi> the Earl of <hi>Kent,</hi> the Earl of <hi>Rutland,</hi> the Earl of <hi>Pembrook,</hi> the Earl of <hi>Salisbury,</hi> the Earl of <hi>Denbigh,</hi> the Earl of <hi>Bullingbrook,</hi> the Lord Viſcount <hi>Say</hi> and <hi>Seal,</hi> the Lord <hi>Wharton,</hi> the Lord <hi>Howard,</hi> Maſter Sollicitor, Sir <hi>Henry Vane</hi> Iunior, <hi>Mr. Crew, Mr. Pierrepont, Mr. Stroad, Mr.</hi> Recorder, Sir <hi>John Evelyn, Mr. Ellis, Mr. Reynolds,</hi> Colonell <hi>Ven,</hi> Sir <hi>Thomas Soame, Mr. Jennour, Mr. Hodges, Mr. Pury, Mr. Pride<g ref="char:EOLhyphen"/>aux, Mr. Benningfield; Mr. Bond,</hi> Sir <hi>Arthur Ha<g ref="char:EOLhyphen"/>ſlerig, Mr. Scawen,</hi> and Sir <hi>Gilbert Gerard,</hi> Members of the Commons Houſe of Par<g ref="char:EOLhyphen"/>liament, and the ſaid eight Treaſurers, or any four of them, (whereof two to be Al<g ref="char:EOLhyphen"/>dermen, and two to be Commoners) calling unto them ſuch of the Lenders as they or the greater number of them ſhall thinke fit, ſhall have full power
+<pb facs="tcp:121083:5"/>
+and they are hereby authorized to take and ſet towne ſuch order as they ſhall thinke meete and fit for the full aſſeſſing, and the due collecting of the ſaid ſeverall ſummes of Money to be taxed, leaviod, and paid, and leavying the Arrears hereafter in this preſent Ordi<g ref="char:EOLhyphen"/>nance mentioned, and all incident Charges touching the same. And ſuch order ſhall bee obeyed by every perſon and perſons in ſuch manner and forme as ſhall be by the Perſons before named, or any eight of them (<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oure of them at the leaſt being Members of the Commons Houſe of Parliament) directed and preſcri<g ref="char:EOLhyphen"/>bed, The ſame power not to exceed that already given to the reſpective Committees by the ſaid recited Ordi<g ref="char:EOLhyphen"/>nance of the fifteenth of <hi>February</hi> laſt.</p>
+            <p>And be it further Ordained, that the ſaid Treaſu<g ref="char:EOLhyphen"/>rers at Warres, or any two of them (whereof one of them to be an Alderman, and the other a Commoner) ſhall ſubſcribe every receipt to ſuch perſon or perſons, as ſhall advance by way of Loane any ſumme or ſums of Money towards the ſaid eighty thouſand pounds undertaken to be Advanced, and ſuch receipt ſhall inte<g ref="char:EOLhyphen"/>reſt and intitle every perſon or perſons, to whom the ſame ſhall be given their &amp; his Executors, Adminiſtra<g ref="char:EOLhyphen"/>tours
+<pb facs="tcp:121083:6"/>
+and Aſſignes, as aforeſaid, into the ſecurity and benefit of this preſent Ordinance for the repayment of the ſaid eighty thouſand pounds, with ſuch intereſt thereof as aforeſaid.</p>
+            <p>And be it further Ordained, that the Receipt of the ſaid Treaſurers, or any two of them, (the one of them being an Alderman, and the other a Commoner) ſhall be a ſuf<g ref="char:EOLhyphen"/>ficient diſcharge to every Collector, or other perſon that ſhall pay in any Money, that ſhall be taxed, leavied, and paid by vertue of the ſaid Ordinance of the fifteenth of <hi>February</hi> laſt, or this preſent Ordinance. And that the ſaid Members of the Houſe of Commons, or any five of them ſhall have Power, and are hereby Autho<g ref="char:EOLhyphen"/>rized to bee a Committee to give Warrants to the ſaid Treaſurers at Warre, or any two of them, for the iſſuing forth of the ſaid eighty thouſand pounds ad<g ref="char:EOLhyphen"/>vanced by way of loane, and all other the Moneys that they ſhall receive by vertue of the ſaid former, and of this preſent Ordinance, and in the ſame Warrant it ſhall bee expreſſed for what purpoſe the Money con<g ref="char:EOLhyphen"/>tained in the ſame is to be iſſued, and the ſaid War<g ref="char:EOLhyphen"/>rants with a receipt thereupon under the hand of the party to whom the ſame is directed to be paid, or his
+<pb facs="tcp:121083:6"/>
+Aſſignee or Aſſignees, ſhall be a ſufficient diſcharge to the ſaid Treaſurers, and every of them, for ſo much as they ſhall thereupon iſſue forth, Except for the ſeve<g ref="char:EOLhyphen"/>rall ſummes of twenty ſix thouſand, ſix hundred ſixty ſix pounds thirteene ſhillings and foure pence, with in<g ref="char:EOLhyphen"/>tereſt thereof, as aforeſaid; Which ſummes are to bee paid to the perſons advancing the ſaid eighty thouſand pounds as aforeſaid, and not otherwiſe employed.</p>
+            <p>And it is alſo Ordained, that the ſaid eighty thouſand pounds advanced by the ſaid Lenders, and all Moneys to bee raiſed by vertue of the ſaid Ordinance of the fifteenth of <hi>February</hi> laſt, ſhall bee employed onely for ſhe purpoſes, uſes, and intents in this Ordinance and the forementioned Ordinance of the fifteenth of <hi>February</hi> expreſſed, and no otherwiſe, and no War<g ref="char:EOLhyphen"/>rants ſhall bee made from the ſaid Committee or any other, or if iſſued, ſhall bee obeyed, but onely for the purpoſes aforeſaid.</p>
+            <p>And it is alſo further Ordained, that the ſaid Trea<g ref="char:EOLhyphen"/>ſurers at Warre for their paines in receiving, and iſſu<g ref="char:EOLhyphen"/>ing forth of the ſaid eighty thouſand pounds; and the Moneys to be raiſed and received by vertue of the laid recited Ordinance, and this preſent Ordinance, and in
+<pb facs="tcp:121083:7"/>
+Conſideration they ſhall execute the imployment of the Treaſurer at Warres ſhall have three pence for every pound, they ſhall receive and iſſue forth of the Mo<g ref="char:EOLhyphen"/>neys to bee taxed, levyed and paid by vertue of the ſaid recited Ordinance; And ſhall alſo have three pounds five ſhillings foure pence <hi>per diem</hi> to bee diſpoſed of as they ſhall thinke fit for the payment of ſuch perſons as they ſhall thinke meete to make uſe of, for the better execution of the ſaid employment of Treaſurer at Warres, and all other charges allowed to Sir <hi>Gilbert Gerrard,</hi> as Treaſurer at Warres, and ſhall iſſue the Moneys without any further or other allowance, the ſaid allowances to bee paid monethly.</p>
+            <p>And bee it further Ordained, that all arrears which are or ſhall be due upon the Ordinance of the fifteenth of <hi>February,</hi> and all arrearages of Weekly Aſſeſſe<g ref="char:EOLhyphen"/>ments due upon any Ordinance from any of the Inha<g ref="char:EOLhyphen"/>bitants within the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> or the County of <hi>Middleſex.</hi> And all Moneys that ſhall bee due from any Accomptant or Accomptants, Collectors or Treaſurers by vertue of any Ordinance for taking of the Accompts of the whole Kingdom ſhall
+<pb facs="tcp:121083:7"/>
+bee employed, towards the raiſing and maintaining of the Forces under the Command of Sir <hi>Thomas Fairfax,</hi> and other the purpoſes in this Ordinance mentioned.</p>
+            <p>Provided, That all ſuch Moneys that by any Or<g ref="char:EOLhyphen"/>dinance of both Houſes of Parliament, or Order of the Commons Houſe of Parliament, before the paſſing hereof, are to be paid out of the ſaid Arrears or Mo<g ref="char:EOLhyphen"/>neys that ſhall be due from any Accomptant or Ac<g ref="char:EOLhyphen"/>comptants, Collectors or Treaſurers ſhall bee firſt paid, notwithſtanding this Ordinance, or any thing herein contained to the Contrary.</p>
+            <p>Provided alſo, that this Ordinance, ſhall not extend to the Raiſing or Leavying of the laſt Moneths Tax or Aſſeſſement upon the County of <hi>Kent,</hi> but that the ſame ſhall and may be employed for the Garriſon of <hi>Plymouth.</hi>
+            </p>
+            <p>Provided, and it is Ordained, that the tax and Aſ<g ref="char:EOLhyphen"/>ſeſſement on the ſeverall Counties and places in the ſaid Ordinance of the fifteenth of <hi>February</hi> mentioned, and all power for Collecting, Raiſing, Leavying and receiving the ſame, ſhall be in force, and ſtand in being, and put in execution untill the ſumme of eighty thou<g ref="char:EOLhyphen"/>ſand pounds with intereſt as aforeſaid bee repaid, al<g ref="char:EOLhyphen"/>though this preſent Warre continue not ſo long.</p>
+            <p>
+               <pb facs="tcp:121083:8"/>
+Provided that, Whereas by the ſaid former Ordi<g ref="char:EOLhyphen"/>nance; It is appointed that the ſummes therein men<g ref="char:EOLhyphen"/>tioned ſhall be taxed, levyed, and paid from the firſt day of <hi>February</hi> laſt, till the firſt day of <hi>December</hi> next, which comprehendeth more then ten Moneths recken<g ref="char:EOLhyphen"/>ing, eight and twenty dayes to the moneth, Whereupon ſome doubt hath ariſen, touching the Computation of the ſaid Moneths; for clearing whereof, It is here<g ref="char:EOLhyphen"/>by Declared and Ordained, that the ſaid Monethly Taxe be made according to the Callender, and not otherwiſe.</p>
+            <p>And whereas by the ſaid former Ordinance, the ſe<g ref="char:EOLhyphen"/>verall Committees, or any two of them are Authori<g ref="char:EOLhyphen"/>ſed, and required to allow the ſeverall allowances of one penny, and one halfe penny therein mentioned: And it is neceſſary that the ſeverall ſummes of Money Collected be paid to the ſaid Treaſurers in the Guild-Hall <hi>London.</hi>
+            </p>
+            <p>It is Ordained, that the ſaid ſummes bee paid at the Guild-Hall <hi>London</hi> aforeſaid, according to the in<g ref="char:EOLhyphen"/>tent of this Ordinance by the ſaid Collectors, And upon payment thereof the ſaid Treaſurers or any two of them (the one of them being an Alderman, and the other a Commoner) ſhall give allowance of the ſaid one penny, and one halfe penny to the ſaid Collectors, and to free the ſaid Committees from trouble therin. It is alſo Ordained that the ſaid power, as to the allow<g ref="char:EOLhyphen"/>ing of the ſaid one penny, and one halfe penny, by the ſaid Committees be hereby diſcharged the former Or<g ref="char:EOLhyphen"/>dinance notwithſtanding.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:121083:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
